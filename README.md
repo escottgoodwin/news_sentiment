@@ -26,7 +26,7 @@ In the terminal, call:
 
     python news_sentiment.py
 
-Analysis 
+**Analysis** 
 
 This package uses the sentiment analysis built into the [TextBlob](http://textblob.readthedocs.io/en/dev/quickstart.html) package. 
 
@@ -39,6 +39,6 @@ Some of the sentiment scoring is down right baffling:
 While this package provides an easy way to get a feel for the sentiment of a particular RSS feed, one can review the sentence level scoring to determine the reliability of the sentiment scores. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDA2Mjc5NywtMTE1NzE1NjQyLDQwOT
+eyJoaXN0b3J5IjpbLTUwNjcxOTE4MSwtMTE1NzE1NjQyLDQwOT
 EyODI1Nl19
 -->
