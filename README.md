@@ -30,9 +30,9 @@ This package uses the sentiment analysis built into the [TextBlob](http://textbl
 
 Examining the sentences, one can see how misleading the sentiments scores can be. For example, sentences that positive emotions can receive a similar score to those that merely express approval of the subject matter of the sentence. 
 
-Some of the sentiment scoring is down right baffling 
+Some of the sentiment scoring is down right baffling: 
 
-"They said Facebook had a history of pledging to do more to help quell ethnic violence in Myanmar but had not fulfilled its promises.  (sentiment: 0.5)"
+"They said Facebook had a history of pledging to do more to help quell ethnic violence in Myanmar but had not fulfilled its promises.  (positive sentiment: 0.5)"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk2MTIwMiw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTY1NzcxNDIzNyw0MDkxMjgyNTZdfQ==
 -->
