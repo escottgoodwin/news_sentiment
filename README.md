@@ -32,6 +32,7 @@ Examining the sentences, one can see how misleading the sentiments scores can be
 
 Some of the sentiment scoring is down right baffling 
 
+"They said Facebook had a history of pledging to do more to help quell ethnic violence in Myanmar but had not fulfilled its promises.  (sentiment: 0.5)"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NzM1MTMzLDQwOTEyODI1Nl19
+eyJoaXN0b3J5IjpbLTExOTk2MTIwMiw0MDkxMjgyNTZdfQ==
 -->
