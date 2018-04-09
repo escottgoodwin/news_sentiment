@@ -32,7 +32,8 @@ Examining the sentences, one can see how misleading the sentiments scores can be
 
 Some of the sentiment scoring is down right baffling: 
 
-"They said Facebook had a history of pledging to do more to help quell ethnic violence in Myanmar but had not fulfilled its promises.  (positive sentiment: 0.5)"
+> The ruble dropped more than 4 percent against the dollar, and the price of government bonds fell. _(positive sentiment: 0.5)_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzcxNDIzNyw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbMTU5MDIxNTQ4MSw0MDkxMjgyNTZdfQ==
 -->
