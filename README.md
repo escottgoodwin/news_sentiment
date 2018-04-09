@@ -2,12 +2,18 @@
 
 This package analyzes the sentiment of each article in a given RSS feed. This allows an easy way to evaluate the quality of sentence level sentiment scoring. 
 
+**Article Statistics** 
+
 The package provides statistics about article sentiment.
 
 ![statistics](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot2.png)
 
+**Sentiment Chart**
+
  There is a chart tracking the change in sentiment throughout the article 
 ![chart](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot3.png)
+
+**Sentence Level Sentiment Scoring**
 
 Finally, the text article's text is provided with a sentiment score for each sentence. Sentences are colored in accordance with sentiment score - the brighter the green, the more positive, the brighter the red, the more negative. Neutral sentences are black. 
 ![color sents](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot1.png)
@@ -39,6 +45,6 @@ Some of the sentiment scoring is down right baffling:
 While this package provides an easy way to get a feel for the sentiment of a particular RSS feed, one can review the sentence level scoring to determine the reliability of the sentiment scores. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjcxOTE4MSwtMTE1NzE1NjQyLDQwOT
+eyJoaXN0b3J5IjpbMTQ3MDUwOTI2OCwtMTE1NzE1NjQyLDQwOT
 EyODI1Nl19
 -->
