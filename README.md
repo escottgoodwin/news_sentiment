@@ -14,7 +14,9 @@ Finally, the text article's text is provided with a sentiment score for each sen
 
 Usage
 
+In the `main()` function, provide the full url of the RSS feed you want to analyze. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MTc1MjA3LDQwOTEyODI1Nl19
+eyJoaXN0b3J5IjpbMTc4MDY4NTM1OSw0MDkxMjgyNTZdfQ==
 -->
