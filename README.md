@@ -17,9 +17,13 @@ Usage
 In the `main()` function, provide the full url of the RSS feed you want to analyze. 
 
     def main():
-	    rss_url = 'http://feeds.feed.com'
+	    rss_url = 'http://feeds.feed.com' ## substitute with selected feed
 	    html = sentchart2(rss_url)
 
+In the terminal, call: 
+
+    enter code here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDE1NDg0Miw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTgwMDgzMTQ4LDQwOTEyODI1Nl19
 -->
