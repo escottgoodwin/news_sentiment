@@ -34,6 +34,8 @@ Some of the sentiment scoring is down right baffling:
 
 > The ruble dropped more than 4 percent against the dollar, and the price of government bonds fell. _(positive sentiment: 0.5)_
 
+While 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDIxNTQ4MSw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTExNTcxNTY0Miw0MDkxMjgyNTZdfQ==
 -->
