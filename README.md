@@ -5,8 +5,9 @@ The package provides statistics about article sentiment.
 
 ![enter image description here](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot2.png)
 
- Each article also has a chart tracking the change in sentiment throughout the article 
+ There is a chart tracking the change in sentiment throughout the article 
+![enter image description here](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzM5MzU0NCw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbMjEwMTU2NzU1NCw0MDkxMjgyNTZdfQ==
 -->
