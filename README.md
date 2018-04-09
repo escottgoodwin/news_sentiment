@@ -36,7 +36,7 @@ In the terminal, call:
 
 This package uses the sentiment analysis built into the [TextBlob](http://textblob.readthedocs.io/en/dev/quickstart.html) package. 
 
-Examining the sentences, one can see how misleading the sentiments scores can be. For example, sentences that positive emotions can receive a similar score to those that merely express approval of the subject matter of the sentence. 
+Examining the sentences, one can see how misleading the sentiments scores can be. For example, sentences that express positive emotions may receive a similar score to those that merely express approval of the subject matter of the sentence. 
 
 Some of the sentiment scoring is down right baffling: 
 
@@ -45,6 +45,6 @@ Some of the sentiment scoring is down right baffling:
 While this package provides an easy way to get a feel for the sentiment of a particular RSS feed, one can review the sentence level scoring to determine the reliability of the sentiment scores. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDUwOTI2OCwtMTE1NzE1NjQyLDQwOT
-EyODI1Nl19
+eyJoaXN0b3J5IjpbMTk2NDgwMzAwMSwxNDcwNTA5MjY4LC0xMT
+U3MTU2NDIsNDA5MTI4MjU2XX0=
 -->
