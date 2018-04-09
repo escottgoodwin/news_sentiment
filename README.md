@@ -24,8 +24,10 @@ In the terminal, call:
 
     python news_sentiment.py
 
+Analysis 
 
+This package uses the sentiment analysis built into the TextBlob package. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTI0NjIxLDQwOTEyODI1Nl19
+eyJoaXN0b3J5IjpbMjEwMDUxNTgwMCw0MDkxMjgyNTZdfQ==
 -->
