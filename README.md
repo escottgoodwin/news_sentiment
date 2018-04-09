@@ -12,6 +12,8 @@ The package provides statistics about article sentiment.
 Finally, the text article's text is provided with a sentiment score for each sentence. Sentences are colored in accordance with sentiment score - the brighter the green, the more positive, the brighter the red, the more negative. Neutral sentences are black. 
 ![color sents](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot1.png)
 
+At the end, statistics and chart for the entire section are presented.
+
 **Usage**
 
 In the `main()` function, provide the full url of the RSS feed you want to analyze. 
@@ -34,8 +36,9 @@ Some of the sentiment scoring is down right baffling:
 
 > The ruble dropped more than 4 percent against the dollar, and the price of government bonds fell. _(positive sentiment: 0.5)_
 
-While 
+While
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcxNTY0Miw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDE0OTUwMTcsLTExNTcxNTY0Miw0MD
+kxMjgyNTZdfQ==
 -->
