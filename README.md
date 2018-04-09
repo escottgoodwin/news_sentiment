@@ -12,7 +12,7 @@ The package provides statistics about article sentiment.
 Finally, the text article's text is provided with a sentiment score for each sentence. 
 ![color sents](https://github.com/escottgoodwin/news_sentiment/raw/master/static/screenshot1.png)
 
-Usage
+**Usage**
 
 In the `main()` function, provide the full url of the RSS feed you want to analyze. 
 
@@ -22,8 +22,10 @@ In the `main()` function, provide the full url of the RSS feed you want to analy
 
 In the terminal, call: 
 
-    enter code here
+    python news_sentiment.py
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDgzMTQ4LDQwOTEyODI1Nl19
+eyJoaXN0b3J5IjpbNzI3MTI0NjIxLDQwOTEyODI1Nl19
 -->
