@@ -26,8 +26,10 @@ In the terminal, call:
 
 Analysis 
 
-This package uses the sentiment analysis built into the TextBlob package. 
+This package uses the sentiment analysis built into the [TextBlob](http://textblob.readthedocs.io/en/dev/quickstart.html) package. 
+
+Examining the sentences, one can see how misleading the sentiments scores can be. For e
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDUxNTgwMCw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDAzNDAzNiw0MDkxMjgyNTZdfQ==
 -->
