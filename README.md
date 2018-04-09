@@ -28,8 +28,9 @@ Analysis
 
 This package uses the sentiment analysis built into the [TextBlob](http://textblob.readthedocs.io/en/dev/quickstart.html) package. 
 
-Examining the sentences, one can see how misleading the sentiments scores can be. For e
+Examining the sentences, one can see how misleading the sentiments scores can be. For example, sentences that positive emotions can receive a similar score to those that merely express approval of the subject matter of the sentence. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDAzNDAzNiw0MDkxMjgyNTZdfQ==
+eyJoaXN0b3J5IjpbNDMzODk0NDcwLDQwOTEyODI1Nl19
 -->
