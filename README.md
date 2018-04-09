@@ -1,6 +1,6 @@
 ## News Sentiment
 
-This package analyzes the sentiment of each article in a given RSS feed. 
+This package analyzes the sentiment of each article in a given RSS feed. This allows an easy way to evaluate the quality of sentence level
 
 The package provides statistics about article sentiment.
 
@@ -30,7 +30,8 @@ This package uses the sentiment analysis built into the [TextBlob](http://textbl
 
 Examining the sentences, one can see how misleading the sentiments scores can be. For example, sentences that positive emotions can receive a similar score to those that merely express approval of the subject matter of the sentence. 
 
+Some of the sentiment scoring is down right baffling 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzODk0NDcwLDQwOTEyODI1Nl19
+eyJoaXN0b3J5IjpbLTUyNTgwMDYwNyw0MDkxMjgyNTZdfQ==
 -->
