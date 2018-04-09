@@ -36,9 +36,9 @@ Some of the sentiment scoring is down right baffling:
 
 > The ruble dropped more than 4 percent against the dollar, and the price of government bonds fell. _(positive sentiment: 0.5)_
 
-While this package provides an easy way to get a feel for the sentiment of a particular RSS feed, one can review the sentence level scoring to 
+While this package provides an easy way to get a feel for the sentiment of a particular RSS feed, one can review the sentence level scoring to determine the reliability of the sentiment scores. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTk3MzU5NywtMTE1NzE1NjQyLDQwOT
+eyJoaXN0b3J5IjpbLTUwNDA2Mjc5NywtMTE1NzE1NjQyLDQwOT
 EyODI1Nl19
 -->
