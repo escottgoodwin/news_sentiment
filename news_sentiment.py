@@ -154,10 +154,10 @@ def sentchart2(rsslink):
 
         html += '<div class="my-3 p-3 bg-white rounded box-shadow"><h6 class="border-bottom border-gray pb-2 mb-0">'
         html += '<p><a href="' + page_link + '" target="_blank">' + title + '</a></h6></p>'
-        html += '<p><b>average sentiment</b> - ' + str(avg) + '</p>'
-        html += '<p><b>pos</b> - num of sents ' + str(len(pos)) + ' - % of sents ' + str(pospercent) + ' - avg of pos ' + str(np.mean(pos)) + '</p>'
-        html += '<p><b>neg</b> - num of sents ' + str(len(neg)) + ' - % of sents ' + str(negpercent) + ' - avg of neg ' + str(np.mean(neg)) + '</p>'
-        html += '<p><b>neutral</b> - num of sents ' + str(len(neu)) + ' - % of sents ' + str(neupercent) + '</p>'
+        html += '<p><b>average sentiment</b>: ' + str(avg) + '</p>'
+        html += '<p><b>pos</b> - num of sents: ' + str(len(pos)) + ' - % of sents: ' + str(pospercent) + ' - avg of pos: ' + str(np.mean(pos)) + '</p>'
+        html += '<p><b>neg</b> - num of sents: ' + str(len(neg)) + ' - % of sents ' + str(negpercent) + ' - avg of neg: ' + str(np.mean(neg)) + '</p>'
+        html += '<p><b>neutral</b> - num of sents: ' + str(len(neu)) + ' - % of sents: ' + str(neupercent) + '</p>'
 
         plt.plot(sentiments)
         plt.ylabel('sentiment polarity')
